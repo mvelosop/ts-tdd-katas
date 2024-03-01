@@ -2,7 +2,7 @@
   "name": "typescript-jest-boilerplate",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Charles Ahmadzadeh <superzadeh@outlook.com>",
+  "author": "Charles Ahmadzadeh <superzadeh@outlook.com>, Miguel Veloso <mvelosop@gmail.com>",
   "scripts": {
     "check-types": "yarn compile:ts --noEmit",
     "test": "cross-env NODE_ENV=test jest",

@@ -1,4 +1,4 @@
-# TypeScript Jest boilerplate
+# TypeScript Jest boilerplate for TDD katas
 
 This boilerplate uses TypeScript and Jest as testing framework.
 Test files should are picked based on their name, here's a few examples that will get picked up by Jest:
@@ -14,6 +14,16 @@ You can customize the regexp and jest configuration by editing the `package.json
 
 - pnpm
 - ts-jest
+
+The scripts below should work just as well, replacing `npm` by `pnpm`.
+
+## TDD Katas
+
+Find the katas catalog in the following link
+
+- https://kata-log.rocks/tdd
+
+Happy testing 😊
 
 ## Installing dependencies
 
